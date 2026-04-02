@@ -170,8 +170,8 @@ Server runs at: `http://localhost:5000`
 
 ```json
 {
-  "name": "Disha Tiwari",
-  "email": "disha@example.com",
+  "name": "xyz",
+  "email": "xyz@example.com",
   "password": "hashed_password",
   "role": "admin",
   "isActive": true,
@@ -220,8 +220,8 @@ POST /api/auth/register
 Content-Type: application/json
 
 {
-  "name": "Disha Tiwari",
-  "email": "disha@example.com",
+  "name": "xyz",
+  "email": "xyz@example.com",
   "password": "securepassword",
   "role": "admin"
 }
