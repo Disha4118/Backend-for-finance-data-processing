@@ -311,5 +311,4 @@ All errors follow a consistent format:
 ## 📄 License
 
 This project is built for assessment purposes as part of the Zorvyn Backend Developer Internship assignment.
-#   B a c k e n d - f o r - f i n a n c e - d a t a - p r o c e s s i n g  
- 
+#
